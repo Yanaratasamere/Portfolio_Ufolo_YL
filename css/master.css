@@ -4,6 +4,7 @@ body{
   background: #efefef;
 }
 
+
 section{
   border-bottom: #D2D2D2 2px solid;
   min-height: 98vh;
@@ -21,9 +22,9 @@ justify-content: space-around;
 
 }
 
+
 .project-feature{
 
-  border: 1px solid #000;
   margin: 1em;
   padding: 1em;
   flex-basis: 320px;
@@ -93,7 +94,7 @@ justify-content: space-around;
 header {
 display: flex;
 justify-content: space-between;
-padding: 2em;
+padding: 7em;
 
 }
   #main-menu {
@@ -103,6 +104,9 @@ padding: 2em;
   }
  .menu-toggle {
     display: none;
+
+
+
   }
   .close-menu {
     display: none;
@@ -112,4 +116,8 @@ padding: 2em;
   justify-content: flex-end;
   margin: 0 auto;
   }
+}
+
+#contact {
+  line-height: 3;
 }
