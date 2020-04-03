@@ -25,3 +25,7 @@ figcaption{
   font-size: 0.75em;
   font-style: italic;
 }
+
+p {
+  font-size: 2em;
+}
