@@ -11,6 +11,11 @@ section{
   font-family: avenir;
 }
 
+.logo {
+
+max-width: 440px;
+margin: 0 auto;
+}
 figure{
   margin-bottom: 1em;
 }
